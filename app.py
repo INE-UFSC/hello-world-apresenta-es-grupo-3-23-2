@@ -6,4 +6,4 @@ import membro4 as m4
 print(m1.hello())
 print(m2.hello())
 print(m3.hello())
-print(m3.hello())
+print(m4.hello())
